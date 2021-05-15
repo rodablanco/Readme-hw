@@ -1,6 +1,6 @@
-# april
+# README-hw
   ##License:
-  [[![License](https://img.shields.io/badge/license-GNU-blue.svg)](https://shields.io/]
+  [![License](https://img.shields.io/badge/license-Apache-blue.svg)](https://shields.io/]
   ## table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -11,13 +11,13 @@
   ## Description:
   undefined
   ## Installation:
-  april
+  nodeJS- npm i, then npm i inquirer
   ## Usage:
-  april
+  To create readme files for projects
   ## License:
-  GNU
+  Apache
   ## Contribution:
-  april
+  Not at this moment
   ## Testing:
   undefined
   ##Contact Information:
